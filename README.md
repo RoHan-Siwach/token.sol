@@ -1,6 +1,7 @@
  # MyToken
 - This Solidity smart contract represents a basic token contract named "MyToken." It includes functionality for minting (creating) and burning (destroying) tokens, as well as public variables to store information about the token.
 
+![Screenshot](Screenshot(435).png)
 
 
  # Description
